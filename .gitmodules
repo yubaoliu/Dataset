@@ -1,0 +1,6 @@
+[submodule "tools/cityscapes-to-coco-conversion"]
+	path = tools/cityscapes-to-coco-conversion
+	url = https://github.com/TillBeemelmanns/cityscapes-to-coco-conversion.git
+[submodule "tools/cityscapesScripts"]
+	path = tools/cityscapesScripts
+	url = https://github.com/mcordts/cityscapesScripts.git
